@@ -1,0 +1,17 @@
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\ForWorkSQLServer.exe.config
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\ForWorkSQLServer.exe
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\ForWorkSQLServer.pdb
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\EntityFramework.dll
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\EntityFramework.SqlServer.dll
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\EntityFramework.xml
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\bin\Debug\EntityFramework.SqlServer.xml
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.csprojResolveAssemblyReference.cache
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.Properties.Resources.resources
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.csproj.GenerateResource.Cache
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.exe
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.pdb
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.EmployeeSetup.resources
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.EmployeeForm.resources
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.Main.resources
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.AddDepartmentForm.resources
+H:\ProjectsVS\ForWorkSQLServer\ForWorkSQLServer\obj\Debug\ForWorkSQLServer.DeleteDepartmentForm.resources
